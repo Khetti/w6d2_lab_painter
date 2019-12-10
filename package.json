@@ -2,12 +2,20 @@
   "name": "lab",
   "version": "1.0.0",
   "description": "",
-  "main": "painter_decorator.js",
+  "main": "decorator.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha specs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khetti/w6d2_lab_painter.git"
   },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khetti/w6d2_lab_painter/issues"
+  },
+  "homepage": "https://github.com/Khetti/w6d2_lab_painter#readme",
   "devDependencies": {
     "mocha": "^6.2.2"
   }
