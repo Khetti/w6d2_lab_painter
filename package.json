@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Khetti/w6d2_lab_painter#readme",
   "devDependencies": {
-    "mocha": "^6.2.2"
+    "mocha": "^10.2.0"
   }
 }
